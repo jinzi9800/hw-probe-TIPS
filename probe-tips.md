@@ -8,6 +8,6 @@ Probe — is a snapshot of your computer's hardware state.
 
 3. How to use Probe.
 
-a. sudo -E hw-probe -all -upload
-b. click the link
-c. download the code for your unassgined hardware or configurate it by the guide.
+a. sudo -E hw-probe -all -upload  
+b. click the link  
+c. download the code for your unassgined hardware or configurate it by the guide.  
